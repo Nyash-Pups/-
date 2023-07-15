@@ -1,0 +1,15 @@
+C:\Users\Bulat\OneDrive\Рабочий стол\Geek\ДЗ\C#_знакомство\зачётка\bin\Debug\net8.0\зачётка.exe
+C:\Users\Bulat\OneDrive\Рабочий стол\Geek\ДЗ\C#_знакомство\зачётка\bin\Debug\net8.0\зачётка.deps.json
+C:\Users\Bulat\OneDrive\Рабочий стол\Geek\ДЗ\C#_знакомство\зачётка\bin\Debug\net8.0\зачётка.runtimeconfig.json
+C:\Users\Bulat\OneDrive\Рабочий стол\Geek\ДЗ\C#_знакомство\зачётка\bin\Debug\net8.0\зачётка.dll
+C:\Users\Bulat\OneDrive\Рабочий стол\Geek\ДЗ\C#_знакомство\зачётка\bin\Debug\net8.0\зачётка.pdb
+C:\Users\Bulat\OneDrive\Рабочий стол\Geek\ДЗ\C#_знакомство\зачётка\obj\Debug\net8.0\зачётка.csproj.AssemblyReference.cache
+C:\Users\Bulat\OneDrive\Рабочий стол\Geek\ДЗ\C#_знакомство\зачётка\obj\Debug\net8.0\зачётка.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bulat\OneDrive\Рабочий стол\Geek\ДЗ\C#_знакомство\зачётка\obj\Debug\net8.0\зачётка.AssemblyInfoInputs.cache
+C:\Users\Bulat\OneDrive\Рабочий стол\Geek\ДЗ\C#_знакомство\зачётка\obj\Debug\net8.0\зачётка.AssemblyInfo.cs
+C:\Users\Bulat\OneDrive\Рабочий стол\Geek\ДЗ\C#_знакомство\зачётка\obj\Debug\net8.0\зачётка.csproj.CoreCompileInputs.cache
+C:\Users\Bulat\OneDrive\Рабочий стол\Geek\ДЗ\C#_знакомство\зачётка\obj\Debug\net8.0\зачётка.dll
+C:\Users\Bulat\OneDrive\Рабочий стол\Geek\ДЗ\C#_знакомство\зачётка\obj\Debug\net8.0\refint\зачётка.dll
+C:\Users\Bulat\OneDrive\Рабочий стол\Geek\ДЗ\C#_знакомство\зачётка\obj\Debug\net8.0\зачётка.pdb
+C:\Users\Bulat\OneDrive\Рабочий стол\Geek\ДЗ\C#_знакомство\зачётка\obj\Debug\net8.0\зачётка.genruntimeconfig.cache
+C:\Users\Bulat\OneDrive\Рабочий стол\Geek\ДЗ\C#_знакомство\зачётка\obj\Debug\net8.0\ref\зачётка.dll
